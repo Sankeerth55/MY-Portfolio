@@ -2,13 +2,14 @@
 
 Welcome to my **personal portfolio**, a futuristic and interactive showcase built with **HTML**, **CSS**, **JavaScript**, and **Three.js** — highlighting my journey as an **AI & ML Engineering Student** passionate about **Generative AI, Prompt Engineering, and Full-Stack Development**.
 
+---
+
 ## 🌐 Live Portfolio
 
-🚀 **[Click Here to View My Portfolio](https://sankeerth55.github.io/sankyportfolio/)**  
-*(or open `index.html` locally if cloning the repo)*  
+🚀 **[Click Here to Open My Portfolio](http://127.0.0.1:5500/index.html)**  
+*(Make sure your local Live Server is running — this link works only on your system.)*  
 
 ![Portfolio Preview](./preview.png)
-
 
 ---
 
@@ -88,5 +89,6 @@ To run this portfolio locally:
 git clone https://github.com/Sankeerth55/portfolio.git
 cd portfolio
 
-# Open the file in your browser
-start index.html
+# Open the file in your browser via Live Server
+# or directly open the link below if Live Server is running
+http://127.0.0.1:5500/index.html
