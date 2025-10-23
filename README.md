@@ -2,7 +2,8 @@
 
 Welcome to my **personal portfolio**, a futuristic and interactive showcase built with **HTML**, **CSS**, **JavaScript**, and **Three.js** — highlighting my journey as an **AI & ML Engineering Student** passionate about **Generative AI, Prompt Engineering, and Full-Stack Development**.
 
-![Portfolio Preview](./preview.png)file:///C:/Users/sanke/OneDrive/Desktop/portfolio/sankyportfolio/index.html
+![Portfolio Preview](file:///C:/Users/sanke/OneDrive/Desktop/portfolio/sankyportfolio/index.html)
+
 ---
 
 ## 🚀 About Me
@@ -81,5 +82,5 @@ To run this portfolio locally:
 git clone https://github.com/Sankeerth55/portfolio.git
 cd portfolio
 
-# Open index.html in your browser
+# Open the file in your browser
 start index.html
