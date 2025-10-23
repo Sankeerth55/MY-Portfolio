@@ -6,7 +6,7 @@ Welcome to my **personal portfolio**, a futuristic and interactive showcase buil
 
 ## 🌐 Live Portfolio
 
-🚀 **[Click Here to Open My Portfolio](http://127.0.0.1:5500/index.html)**  
+🚀 **[Click Here to Open My Portfolio](file:///C:/Users/sanke/OneDrive/Desktop/portfolio/sankyportfolio/index.html)**  
 *(Make sure your local Live Server is running — this link works only on your system.)*  
 
 
